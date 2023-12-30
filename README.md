@@ -20,12 +20,12 @@ blizzard003/robosys202x
 ROS２: ロボットアプリケーション開発のためのミドルウェアである。
 
 ## 使い方
-* まず、talkerを先に立ち上げ、
-　blizzard03@kasama:~/ros2_ws$ ros2 run mypkg talker
+まず、talkerを先に立ち上げ、
+*blizzard03@kasama:~/ros2_ws$ ros2 run mypkg talker
 
-* 次にlistenerを立ち上げる
-　blizzard03@kasama:~/ros2_ws$ ros2 run mypkg listener
-* その結果、listenerは年齢が受け取れる
+次にlistenerを立ち上げる
+*blizzard03@kasama:~/ros2_ws$ ros2 run mypkg listener
+ その結果、listenerは年齢が受け取れる
  
 
 ## 作成者 
